@@ -1,0 +1,287 @@
+# depslib dependency file v1.0
+1428832730 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<random>
+	"ZbierajDane.hpp"
+	"GenerujDane.hpp"
+	"Algorytm.hpp"
+	"AlgorytmBST.hpp"
+	"AlgorytmLST.hpp"
+	"AlgorytmAVL.hpp"
+	"Test.hpp"
+
+1428172235 c:\users\zuza\desktop\projekty programów\zlozonestruktury\zbierajdane.hpp
+	<string>
+
+1428312758 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\zbierajdane.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ZbierajDane.hpp"
+
+1428838120 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmlst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"AlgorytmLST.hpp"
+	"Algorytm.hpp"
+
+1428838435 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\generujdane.cpp
+	"GenerujDane.hpp"
+	<ctime>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<random>
+
+1428838466 c:\users\zuza\desktop\projekty programów\zlozonestruktury\generujdane.hpp
+
+1428837996 c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmlst.hpp
+	"ZbierajDane.hpp"
+	"Algorytm.hpp"
+
+1428837996 c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytm.hpp
+	"ZbierajDane.hpp"
+
+1428838055 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytm.cpp
+	<iostream>
+	"Algorytm.hpp"
+
+1428313330 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algortymavl.cpp
+
+1428838120 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmbst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"AlgorytmBST.hpp"
+	"Algorytm.hpp"
+
+1428837996 c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmbst.hpp
+	"Algorytm.hpp"
+	"ZbierajDane.hpp"
+
+1428838120 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmavl.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"AlgorytmAVL.hpp"
+	"Algorytm.hpp"
+
+1428838078 c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmavl.hpp
+	"ZbierajDane.hpp"
+	"Algorytm.hpp"
+
+1428844440 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\test.cpp
+	"Test.hpp"
+
+1428844751 c:\users\zuza\desktop\projekty programów\zlozonestruktury\test.hpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<random>
+	"Algorytm.hpp"
+	"AlgorytmLST.hpp"
+	"AlgorytmBST.hpp"
+	"AlgorytmAVL.hpp"
+	"GenerujDane.hpp"
+	"AlgorytmPOL.hpp"
+
+1428846161 source:c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmpol.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"AlgorytmPOL.hpp"
+	"Algorytm.hpp"
+
+1428844719 c:\users\zuza\desktop\projekty programów\zlozonestruktury\algorytmpol.hpp
+	"Algorytm.hpp"
+	"ZbierajDane.hpp"
+
+1428866472 source:c:\workcpacecodeb\zlozonestruktury\algorytm.cpp
+	<iostream>
+	"Algorytm.hpp"
+	<iostream>
+
+1428866128 c:\workcpacecodeb\zlozonestruktury\algorytm.hpp
+	<string>
+
+1428945462 c:\workcpacecodeb\zlozonestruktury\zbierajdane.hpp
+	<string>
+	<fstream>
+
+1429052205 source:c:\workcpacecodeb\zlozonestruktury\algorytmavl.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"AlgorytmAVL.hpp"
+	"Algorytm.hpp"
+
+1428860784 c:\workcpacecodeb\zlozonestruktury\algorytmavl.hpp
+	"ZbierajDane.hpp"
+	"Algorytm.hpp"
+
+1429050200 source:c:\workcpacecodeb\zlozonestruktury\algorytmbst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"AlgorytmBST.hpp"
+	"Algorytm.hpp"
+
+1428860784 c:\workcpacecodeb\zlozonestruktury\algorytmbst.hpp
+	"Algorytm.hpp"
+
+1429044007 source:c:\workcpacecodeb\zlozonestruktury\algorytmlst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"AlgorytmLST.hpp"
+	"Algorytm.hpp"
+
+1428862676 c:\workcpacecodeb\zlozonestruktury\algorytmlst.hpp
+	"Algorytm.hpp"
+
+1429046324 source:c:\workcpacecodeb\zlozonestruktury\generujdane.cpp
+	<stdlib.h>
+	<random>
+	"GenerujDane.hpp"
+
+1429046038 c:\workcpacecodeb\zlozonestruktury\generujdane.hpp
+
+1428861002 source:c:\workcpacecodeb\zlozonestruktury\main.cpp
+	<stdlib.h>
+	"Test.hpp"
+
+1429051696 c:\workcpacecodeb\zlozonestruktury\test.hpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<random>
+	<ctime>
+	"Algorytm.hpp"
+	"AlgorytmLST.hpp"
+	"AlgorytmBST.hpp"
+	"AlgorytmAVL.hpp"
+	"AlgorytmPOL.hpp"
+	"GenerujDane.hpp"
+	"ZbierajDane.hpp"
+
+1428862600 c:\workcpacecodeb\zlozonestruktury\algorytmpol.hpp
+	"Algorytm.hpp"
+
+1429051383 source:c:\workcpacecodeb\zlozonestruktury\test.cpp
+	"Test.hpp"
+
+1428952132 source:c:\workcpacecodeb\zlozonestruktury\zbierajdane.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ZbierajDane.hpp"
+
+1429050189 source:c:\workcpacecodeb\zlozonestruktury\algorytmpol.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"AlgorytmPOL.hpp"
+	"Algorytm.hpp"
+
+1428866472 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytm.cpp
+	<iostream>
+	"Algorytm.hpp"
+	<iostream>
+
+1428866128 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytm.hpp
+	<string>
+
+1428943007 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmavl.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"AlgorytmAVL.hpp"
+	"Algorytm.hpp"
+
+1428860784 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmavl.hpp
+	"ZbierajDane.hpp"
+	"Algorytm.hpp"
+
+1428945460 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\zbierajdane.hpp
+	<string>
+	<fstream>
+
+1428943501 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmbst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"AlgorytmBST.hpp"
+	"Algorytm.hpp"
+
+1428860784 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmbst.hpp
+	"Algorytm.hpp"
+
+1428950980 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmlst.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"AlgorytmLST.hpp"
+	"Algorytm.hpp"
+
+1428862676 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmlst.hpp
+	"Algorytm.hpp"
+
+1428943535 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmpol.cpp
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	"AlgorytmPOL.hpp"
+	"Algorytm.hpp"
+
+1428862600 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\algorytmpol.hpp
+	"Algorytm.hpp"
+
+1428861074 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\generujdane.cpp
+	<stdlib.h>
+	<random>
+	"GenerujDane.hpp"
+
+1428838466 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\generujdane.hpp
+
+1428861002 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\main.cpp
+	<stdlib.h>
+	"Test.hpp"
+
+1428952491 c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\test.hpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<random>
+	<ctime>
+	"Algorytm.hpp"
+	"AlgorytmLST.hpp"
+	"AlgorytmBST.hpp"
+	"AlgorytmAVL.hpp"
+	"AlgorytmPOL.hpp"
+	"GenerujDane.hpp"
+	"ZbierajDane.hpp"
+
+1428949004 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\test.cpp
+	"Test.hpp"
+
+1428952130 source:c:\users\zuza\desktop\projekty programów\poprawionezlozonestruktury\zlozonestruktury\zbierajdane.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ZbierajDane.hpp"
+
